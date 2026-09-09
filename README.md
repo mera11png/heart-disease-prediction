@@ -54,12 +54,12 @@ Several classification models were trained and evaluated using an 80/20 train-te
 | Logistic Regression | 0.8424 | 0.8261 |
 | Linear Regression (baseline reference) | 0.8370 | 0.8370 |
 | Naive Bayes | 0.8302 | 0.8207 |
-| KNN (k=10) | 0.8397 | **0.8641** |
+| KNN (k=9) | 0.8492 | **0.8696** |
 | Decision Tree | 0.8220 | 0.7935 |
 | Random Forest | 0.8546 | 0.8424 |
 | AdaBoost | 0.8383 | 0.8152 |
 
-📌 **Best model: KNN**, with a test accuracy of ≈ 86.4%
+📌 **Best model: KNN (k=9)**, with a test accuracy of ≈ 87%
 
 **KNN accuracy across different values of k:**
 
