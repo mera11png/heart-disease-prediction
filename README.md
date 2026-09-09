@@ -104,11 +104,11 @@ Several classification models were trained and evaluated using an 80/20 train-te
 - Thalassemia (thal)
 
 ## Model
-**Algorithm:** K-Nearest Neighbors (KNN, k=10)
-**Test Accuracy:** 86.4%
+**Algorithm:** K-Nearest Neighbors (KNN, k=9) 
+**Test Accuracy:** 86.96%
 
 | Metric | Class 0 (No Disease) | Class 1 (Disease) |
 |---|---|---|
-| Precision | 0.82 | 0.90 |
-| Recall | 0.85 | 0.87 |
-| F1-Score | 0.84 | 0.88 |
+| Precision | 0.83 | 0.90 |
+| Recall    | 0.85 | 0.88 |
+| F1-Score  | 0.84 | 0.89 |
